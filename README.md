@@ -1,1 +1,1 @@
-Myntra clone project using html and css.
+Myntra clone project using html and Css.
